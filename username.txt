@@ -1,3 +1,4 @@
 Me gusta andar en skate,
 jugar al futbol, ver peliculas y
 salir a conocer lugares nuevos.
+Corregido error para hotfix en produccion.
